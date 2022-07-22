@@ -12,6 +12,17 @@ Marketing campaign data of 2,240 customers of Maven Marketing, including custome
 6. Which channels are underperforming?
 
 
+DATA STRUCTURE
+Single table
+
+# OF RECORDS
+2,240
+
+# OF FIELDS
+28
+
+
+
 Data preparation, Data Cleaning and Data Transformation is being done using python jupyter notebook and data analysis and visualization is being done using Microsoft Power Bi.
 
 Python notebook, Power BI dashboard Link and file and datasets(raw and cleaned) are attached.
