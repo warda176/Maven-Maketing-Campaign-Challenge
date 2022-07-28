@@ -2,7 +2,7 @@
 
 Marketing campaign data of 2,240 customers of Maven Marketing, including customer profiles, product preferences, campaign successes/failures, and channel performance.
 
-##Recommended Analysis
+# Recommended Analysis
 
 1. Are there any null values or outliers? How will you handle them?
 2. What factors are significantly related to the number of web purchases?
@@ -15,10 +15,10 @@ Marketing campaign data of 2,240 customers of Maven Marketing, including custome
 DATA STRUCTURE
 Single table
 
-# OF RECORDS
+NO OF RECORDS
 2,240
 
-# OF FIELDS
+NO OF FIELDS
 28
 
 
@@ -27,4 +27,4 @@ Data preparation, Data Cleaning and Data Transformation is being done using pyth
 
 Python notebook, Power BI dashboard Link and file and datasets(raw and cleaned) are attached.
 
-Dashboard can be accessed here:
+Dashboard can be accessed here: https://bit.ly/3bcHB1u
